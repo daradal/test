@@ -1,1 +1,2 @@
 plugin.program.streamcrack
+plugin.program.streamcrack
